@@ -4,6 +4,7 @@ An interactive desktop application developed in **C# using .NET 8 and Windows Fo
 
 The project was developed as part of a university neural networks course. Its primary goal is to visualize unsupervised learning and investigate how different hyperparameters affect the network's performance.
 
+Language note: The application's user interface is currently available in Polish. This README provides documentation in English to make the project accessible to a wider audience.
 ## Features
 
 ### Interactive SOM Simulation
@@ -61,10 +62,14 @@ The final SOM grid provides a structured representation of the input data while 
 
 <img width="1353" height="937" alt="image" src="https://github.com/user-attachments/assets/7ed9b488-cc3c-4850-9cd1-7dacd82448c3" />
 
+### SOM After Training
+
+<img width="1350" height="931" alt="image" src="https://github.com/user-attachments/assets/4d15f3a9-7d91-40e9-92a0-fbb8fbee5d71" />
 
 ### Experimental Results
 
-<img width="1350" height="931" alt="image" src="https://github.com/user-attachments/assets/4d15f3a9-7d91-40e9-92a0-fbb8fbee5d71" />
+<img width="1358" height="932" alt="image" src="https://github.com/user-attachments/assets/05cdb1f5-09f5-4247-97ef-dda1f3da3a81" />
+
 
 ## Experiments and Results
 
