@@ -59,11 +59,12 @@ The final SOM grid provides a structured representation of the input data while 
 
 ### SOM Simulation
 
-*Screenshot of the simulation interface showing input data, the neuron grid, and the quantization error chart.*
+<img width="1353" height="937" alt="image" src="https://github.com/user-attachments/assets/7ed9b488-cc3c-4850-9cd1-7dacd82448c3" />
+
 
 ### Experimental Results
 
-*Screenshot of the experimental module showing parameter comparisons and visualization of results.*
+<img width="1350" height="931" alt="image" src="https://github.com/user-attachments/assets/4d15f3a9-7d91-40e9-92a0-fbb8fbee5d71" />
 
 ## Experiments and Results
 
